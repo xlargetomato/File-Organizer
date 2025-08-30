@@ -2,7 +2,7 @@
 
 File Name Organizer is a Windows Forms application built with C# that helps you organize files by **type, date, or size** with a simple and intuitive interface.
 
-## ✨ Features
+## Features
 - Organize files by **type, date, or size**
 - **Preview mode** before applying changes
 - **Undo functionality** to reverse operations
@@ -12,23 +12,23 @@ File Name Organizer is a Windows Forms application built with C# that helps you 
 - Modern UI with color-coded feedback
 - Progress tracking and status updates
 
-## 🖥️ Technology Stack
+## Technology Stack
 - **C# / .NET (WinForms)**
 - Event-driven programming
 - File system I/O
 
-## 📷 Screenshots
+## Screenshots
 <img width="1200" height="839" alt="image" src="https://github.com/user-attachments/assets/3cebab4c-5885-4fa8-9f27-de6405466d0e" />
 
 
-## 🔧 How to Use
+## How to Use
 1. Select a source folder
 2. (Optional) Select a destination folder
 3. Choose how you want to organize files (Type / Date / Size)
 4. Click **Preview** to see the changes
 5. Run to apply changes (or Undo if needed)
 
-## 💡 Credits
+-------------------------------------------------------
 - Developed by **Ahmed Hegazy**
 - Design (UI/UX) assistance: *Claude Sonnet 4 (AI)*
 
