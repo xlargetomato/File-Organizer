@@ -1,4 +1,4 @@
-<img width="1200" height="839" alt="image" src="https://github.com/user-attachments/assets/ebf6a5f5-9373-45d1-b4bf-8282c7491ce6" /># 📂 File Name Organizer
+# 📂 File Name Organizer
 
 File Name Organizer is a Windows Forms application built with C# that helps you organize files by **type, date, or size** with a simple and intuitive interface.
 
